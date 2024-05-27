@@ -29,6 +29,9 @@ O código está estruturado da seguinte forma:
 - Inicialização do display LCD e configuração do botão.
 - Loop principal que aguarda o pressionamento do botão, realiza o lançamento dos dados e verifica as condições de vitória ou derrota.
 
+## Circuito Arduino Uno
+O circuito elétrico está hospedado no site: [https://www.tinkercad.com/things/8cf44XleXYk-jogo-de-dados-com-display-lcd-i2c]
+
 ## Personalização
 Você pode personalizar o jogo alterando as condições de vitória/derrota ou adicionando novas funcionalidades, como um sistema de pontuação ou níveis de dificuldade.
 
