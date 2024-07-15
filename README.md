@@ -32,7 +32,7 @@ O código está estruturado da seguinte forma:
 ## Circuito Arduino Uno
 O circuito elétrico está hospedado no site: [https://wokwi.com/projects/400875780271369217]
 
-![image](https://github.com/NathanAlmeida2006/Jogo-de-Dados-com-Display-LCD-I2C/assets/65135206/e62ed7ab-63a3-4f74-a78c-004e8086fa65)
+![image](https://github.com/user-attachments/assets/7fdeaec2-ada2-4b89-882c-f3e3d0c985c4)
 
 ## Personalização
 Você pode personalizar o jogo alterando as condições de vitória/derrota ou adicionando novas funcionalidades, como um sistema de pontuação ou níveis de dificuldade.
